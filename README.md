@@ -1,4 +1,4 @@
-Hi, I’m Mateo (@mateouma) and I am an aspiring neuroscientist studying statistics at UCLA! 
+Hi, I’m Mateo (@mateouma) and I am an aspiring neuroscientist studying statistics, data science, and mathematical neuroscience at UCLA! 
 
 <!---
 mateouma/mateouma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
